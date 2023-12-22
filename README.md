@@ -30,7 +30,34 @@ Student Attendance Monitoring System
 
 ---------------------------------
 ## SYSTEM GUIDELINES
-[guide.pdf](https://github.com/JohnCipher777/SAMS/files/13749226/guide.pdf)
+
+![guide1](https://github.com/JohnCipher777/SAMS/assets/123635909/0462b5e4-4ef2-43d8-911b-51a16e7ab85a)
+
+
+
+
+![guide2](https://github.com/JohnCipher777/SAMS/assets/123635909/dab41a5b-4796-4402-948b-d20d13c38d57)
+
+
+
+
+![guide3](https://github.com/JohnCipher777/SAMS/assets/123635909/ee267b20-ff0d-489b-a8d9-8bc706761f04)
+
+
+
+
+![guide4](https://github.com/JohnCipher777/SAMS/assets/123635909/b76f7e2d-bc18-4aa2-9588-84b9ad91d629)
+
+---------------------------------
+## SYSTEM DOCUMENTATION
+
+![docs1](https://github.com/JohnCipher777/SAMS/assets/123635909/fa991c79-854c-4bf2-b062-47b6c24ab2b5)
+
+
+
+
+![docs2](https://github.com/JohnCipher777/SAMS/assets/123635909/3e274f9c-492d-4066-844f-b867665cf4ea)
+
 
 
 
